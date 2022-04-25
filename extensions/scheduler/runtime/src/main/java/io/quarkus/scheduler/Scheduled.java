@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
 import java.time.Duration;
 import java.util.concurrent.TimeUnit;
 
-import javax.enterprise.context.Dependent;
+import jakarta.enterprise.context.Dependent;
 
 import io.quarkus.scheduler.Scheduled.Schedules;
 
